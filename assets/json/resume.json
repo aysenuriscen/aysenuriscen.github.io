@@ -59,7 +59,7 @@
       "institution": "Yeditepe University, Istanbul, TR",
       "url": "https://yeditepe.edu.tr/tr",
       "area": "Chemical Engineering",
-      "studyType": "BS",
+      "studyType": "BSc",
       "startDate": "2011",
       "endDate": "2014",
       "score": "",
@@ -73,5 +73,23 @@
   "publications": [],
   "interests": [],
   "references": [],
-  "projects": []
+  "projects": [],
+  "languages": [
+    {
+      "language": "Turkish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Beginner"
+    },
+  ],
 }
