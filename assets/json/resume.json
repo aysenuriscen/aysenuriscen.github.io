@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Ayşenur İşcen Akatay",
-    "label": "TÜBİTAK 2232 Research Fellow",
+    "label": "Chemical Engineer",
     "image": "",
     "email": "aysenur.iscen@sabanciuniv.edu",
     "phone": "0(216) 483-7015",
@@ -25,14 +25,20 @@
   "work": [
     {
       "name": "Faculty of Engineering and Natural Sciences, Sabancı University",
-      "position": "",
+      "position": "TÜBİTAK 2232 Research Fellow",
       "url": "https://fens.sabanciuniv.edu/en",
       "startDate": "2023",
       "endDate": "Present",
-      "summary": "Research in the field of computational materials science, biomaterials, soft matter",
-      "highlights": [
-        ""
-      ]
+      "summary": "Research in the field of computational materials science, biomaterials, soft matter"
+    },
+    {
+      "name": "Max Planck Institute for Polymer Research",
+      "position": "Postdoctoral Fellow",
+      "url": "https://www.mpip-mainz.mpg.de/en/home",
+      "startDate": "2019",
+      "endDate": "2023",
+      "summary": "One of the work package leaders in Active & intelligent PAckaging materials and display cases as a tool for preventive conservation of Cultural Heritage (APACHE) project funded by EU Horizon 2020",
+      "highlights": "Advisor: Prof. Dr. Kurt Kremer"
     }
   ],
   "volunteer": [],
