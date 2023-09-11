@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: TÜBITAK 2232 Fellow - International Fellowship for Outstanding Researchers @ <a href='#'>Sabancı University</a>. 
+subtitle: TÜBITAK 2232 Fellow - International Fellowship for Outstanding Researchers @ <a href='https://www.sabanciuniv.edu/'>Sabancı University</a>. 
 
 profile:
   align: right
