@@ -1,25 +1,20 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Peptide nanofibrils (PNFs) in retroviral gene transfer
+description: Self-assembly mechanisms of PNFs
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: current projects
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Recent advances in molecular medicine have greatly simplified the transfer of genetic material into cells for a myriad of applications, such as the development of mRNA vaccines and gene therapy. Gene therapy approaches can be used to treat diseases that are both inherited, such as those caused by gene defects, and acquired diseases, such as cancer. Among others, retroviral gene transfer is the most commonly used method of choice to introduce genetic material into cellular genome. However, the efficiency of retroviral gene transfer is still limited. For most applications, low concentrations of viral vectors must be used to avoid toxicity in the living cells and consequently the efficiency of the viral vectors in attaching to the cells is lowered. In order to overcome these challenges in retroviral gene transfer, researchers strive to develop new synthetic materials, composed of polymers, peptides and lipids, that will enhance gene transfer and are nontoxic, biodegradable and sustainable. One of these biomaterials are self-assembling peptide nanofibrils (PNFs), which are supramolecular amyloid-like nanofibers popular due to their high stability, resistance to degradation, biocompatibility and dynamic properties that can be tuned with external stimuli.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+
+To address these challenges, the proposed research project will focus on development of physics-based and data-driven models and simulation strategies to investigate the relationship between structure, morphology, and materials properties of PNFs for enhancement of efficiencies of retroviral gene transfer. Using the models and methods developed, this project also aims to answer questions about dynamic properties and self-assembly pathways of supramolecular synthetic and naturally-occuring amyloid-like nanofibrils. Ultimately, we aim to advance the field further and utilize computational methods not only for understanding chemical and physical processes in soft matter, but also develop new chemical and physical concepts using soft matter as a tool in a smart and rational manner. The insights gained in this project about structure-property relationships of amyloid-like nanofibers will be used to design new materials that would give the best performance, reduce the need for time-consuming trial and error experiments in laboratories by evaluating a large number of different peptide sequences and identifying possible candidates to be synthesized by our experimental partners. This knowledge will be extremely beneficial to the pharmaceutical community that is aimed at development of therapeutics to shift the equilibrium away from formation of fibers and stabilize the monomeric forms of amyloid forming proteins, such as Aβ and tau proteins.
+
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,9 +39,6 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
 <div class="row justify-content-sm-center">
@@ -61,21 +53,3 @@ You describe how you toiled, sweated, *bled* for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
