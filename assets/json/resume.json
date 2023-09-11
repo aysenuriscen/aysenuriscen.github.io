@@ -74,30 +74,20 @@
   "interests": [],
   "references": [],
   "projects": [],
-  "awards": [
+  "skills": [
     {
-      "title": "TÜBİTAK 2232-B International Fellowship for Early Stage Researchers",
-      "date": "2023",
-      "awarder": "The Scientific and Technological Research Council of Türkiye (TÜBİTAK)",
-      "summary": ""
+      "name": "Computational Chemistry Software",
+      "level": "",
+      "keywords": [
+        "NAMD, GROMACS, Amber, PLUMED, LAMMPS, Gaussian, GAMESS, VMD"
+      ]
     },
     {
-      "title": "Hierarchical Materials Cluster Program Fellowship",
-      "date": "2016",
-      "awarder": "Northwestern University ",
-      "summary": ""
-    },
-    {
-      "title": "High Honors",
-      "date": "2014",
-      "awarder": "Yeditepe University ",
-      "summary": ""
-    },
-    {
-      "title": "Full Academic Scholarship",
-      "date": "2011-2014",
-      "awarder": "Yeditepe University ",
-      "summary": ""
+      "name": "Others",
+      "level": "",
+      "keywords": [
+        "Python, Tcl/Tk, MATLAB, LATEX, Microsoft Office"
+      ]
     }
-  ],
+  ]
 }
