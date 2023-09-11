@@ -3,7 +3,7 @@ layout: page
 title: Aggregation of supramolecular polymers
 description: Identification of structural transitions in supramolecular systems with machine learning models
 img: assets/img/12.jpg
-importance: 1
+importance: 2
 category: current projects
 related_publications: einstein1956investigations, einstein1950meaning
 ---
