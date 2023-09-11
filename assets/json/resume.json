@@ -74,22 +74,30 @@
   "interests": [],
   "references": [],
   "projects": [],
-  "languages": [
+  "awards": [
     {
-      "language": "Turkish",
-      "fluency": "Native speaker"
+      "title": "TÜBİTAK 2232-B International Fellowship for Early Stage Researchers",
+      "date": "2023",
+      "awarder": "The Scientific and Technological Research Council of Türkiye (TÜBİTAK)",
+      "summary": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "title": "Hierarchical Materials Cluster Program Fellowship",
+      "date": "2016",
+      "awarder": "Northwestern University ",
+      "summary": ""
     },
     {
-      "language": "German",
-      "fluency": "Intermediate"
+      "title": "High Honors",
+      "date": "2014",
+      "awarder": "Yeditepe University ",
+      "summary": ""
     },
     {
-      "language": "Italian",
-      "fluency": "Beginner"
-    },
+      "title": "Full Academic Scholarship",
+      "date": "2011-2014",
+      "awarder": "Yeditepe University ",
+      "summary": ""
+    }
   ],
 }
