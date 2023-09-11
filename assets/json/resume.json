@@ -46,33 +46,4 @@
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "Northwestern University",
-      "url": "https://www.northwestern.edu/",
-      "area": "Chemical and Biological Engineering",
-      "studyType": "PhD",
-      "startDate": "2014",
-      "endDate": "2019",
-      "score": "",
-      "courses": [
-        "Thesis: 'Design of Stimuli-Responsive Bioinspired Materials using Computational Methods' "
-        "Advisor: Prof. Dr. George C. Schatz"
-      ]
-    },
-    {
-      "institution": "Yeditepe University",
-      "url": "https://yeditepe.edu.tr/tr",
-      "area": "Chemical Engineering",
-      "studyType": "Bachelor of Science",
-      "startDate": "2011",
-      "endDate": "2014",
-      "score": "",
-      "courses": [
-        "GPA: 3.91/4.00"
-        "Class rank: 1st in Faculty of Engineering and Architecture"
-      ]
-    }
-  ],
-
 }
