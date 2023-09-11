@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Our research focuses on development of computational models of soft matter to describe systems involving biomaterials in collaborative projects with experimentalists.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [current projects, past projects]
 horizontal: false
 ---
 
