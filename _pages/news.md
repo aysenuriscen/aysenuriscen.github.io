@@ -10,8 +10,6 @@ nav_order: 2
 <div class="news">
 <!-- Display projects without categories -->
   {%- assign sorted_projects = site.news | sort: "importance" -%}
-  {%- for project in sorted_projects -%}
-      {% include news.html %}
-  {%- endfor %}
+  {% include news.html %}
 </div>
 
