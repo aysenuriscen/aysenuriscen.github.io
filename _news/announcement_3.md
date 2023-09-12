@@ -1,8 +1,8 @@
 ---
 layout: post
+title: Positions available to work on TÜBİTAK funded project (MS, PhD, Postdoc)
 date: 2023-09-12 10:34:00-0400
 inline: false
-title: Positions available to work on TÜBİTAK funded project (MS, PhD, Postdoc)
 related_posts: false
 ---
 
@@ -14,6 +14,6 @@ For Master's and PhD applicants, a background in biochemistry, biophysics, havin
 
 The scholarship amounts for Postdoctoral researchers is 19.000 TL/month, PhD students 14.000 TL/month and Master's students 10.000 TL/month. In addition, Sabancı University will provide tuition exemption, private health insurance, dormitory or transportation support.
 
-For questions about the research project or available positions, please contact [Dr. Ayşenur İşcen Akatay] (aysenur.iscen@sabanciuniv.edu).
+For questions about the research project or available positions, please contact <a href="mailto:aysenur.iscen@sabanciuniv.edu">Dr. Ayşenur İşcen Akatay</a>.
 
 
