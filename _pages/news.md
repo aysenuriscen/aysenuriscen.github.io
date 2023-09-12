@@ -5,16 +5,16 @@ permalink: /news/
 description: Latest news
 nav: true
 nav_order: 2
-horizontal: true
+horizontal: false
 ---
 <!-- pages/news.md -->
 
-<div class="projects">
+<div class="news">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
+  {%- assign categorized_projects = site.news | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
@@ -28,7 +28,7 @@ horizontal: true
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include news.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
@@ -36,7 +36,7 @@ horizontal: true
 
 {%- else -%}
 <!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+  {%- assign sorted_projects = site.news | sort: "importance" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
@@ -49,7 +49,7 @@ horizontal: true
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include news.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
