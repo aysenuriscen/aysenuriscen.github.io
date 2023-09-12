@@ -27,5 +27,4 @@ nav_order: 2
     {%- endfor %}
   </div>
   {%- endif -%}
-{%- endif -%}
 </div>
