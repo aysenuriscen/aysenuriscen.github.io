@@ -17,6 +17,3 @@ To address these challenges, the proposed research project will focus on develop
         {% include figure.html path="assets/img/Research Overview002.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    
-</div>
