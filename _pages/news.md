@@ -7,13 +7,5 @@ nav: true
 nav_order: 2
 ---
 <!-- pages/news.md -->
+{% include news.html %}
 
-<div class="news">
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.news | sort: "importance" -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include news.html %}
-    {%- endfor %}
-  </div>
-</div>
