@@ -1,32 +1,17 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Positions available to work on TÜBİTAK funded project (MS, PhD, Postdoc)
+date: 2023-09-12 10:11:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+We are looking for motivated Master's, PhD and Postdoc researchers to work on a fully-funded TÜBİTAK project on "Investigation of structure-property relationships in amyloid-like supramolecular peptide nanofibrils" in the group of Dr. Ayşenur İşcen Akatay at Sabancı University. This is an opportunity for candidates interested in biomaterials, molecular modeling and simulation methods. The students will work with open-source computational chemistry software and data-driven machine learning methods to model and simulate self-assembly processes of peptide nanofibrils, which are biomaterials that self-assemble in solution to form nanofibers with long-range order similar to amyloid formation associated with neurodegenerative disorders, such as Alzheimer's and Parkinson's. These nanofibrils are also used as highly functional materials in applications such as retroviral gene transfer, neuron regeneration and carbon dioxide capture.
 
-***
+Applicants with undergraduate or graduate degrees in chemical engineering, chemistry, materials science, physics or related fields are encouraged to apply. 
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+For Master's and PhD applicants, a background in biochemistry, biophysics, having experience with running molecular dynamics simulations or knowledge of basic programming (e.g. Python) would be beneficial but is not required. Postdoctoral applicants are expected to have prior experince with common MD software, such as Gromacs, NAMD and/or Amber, and atomistic simulations. Additionally, familiarity with machine learning methods is preferred.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+The scholarship amounts for Postdoctoral researchers is 19.000 TL/month, PhD students 14.000 TL/month and Master's students 10.000 TL/month. In addition, Sabancı University will provide tuition exemption, private health insurance, dormitory or transportation support.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+For questions about the research project or available positions, please contact <a href="mailto:aysenur.iscen@sabanciuniv.edu">Dr. Ayşenur İşcen Akatay</a>.
