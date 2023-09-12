@@ -9,7 +9,8 @@ profile:
   image: IMG_2947.JPG
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Office: 1001</p>
+    <p>Faculty of Engineering and Natural Sciences</p>
+    <p>Room 1001</p>
     <p>Sabancı University</p>
     <p>Orta Mahalle, 34956 Tuzla, İstanbul, Türkiye</p>
 
