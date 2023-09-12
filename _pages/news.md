@@ -4,7 +4,7 @@ title: news
 permalink: /news/
 description: Latest news
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 <!-- pages/news.md -->
 <div class="news">
