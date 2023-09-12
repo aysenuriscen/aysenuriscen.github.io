@@ -2,7 +2,7 @@
 layout: page
 title: Role of PNFs in retroviral gene transfer
 description: Simulations of how PNFs aid retroviral gene transfer
-img: assets/img/12.jpg
+img: assets/img/Experiment.png
 importance: 3
 category: current projects
 related_publications: einstein1956investigations, einstein1950meaning
