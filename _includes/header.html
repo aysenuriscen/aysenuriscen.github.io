@@ -42,7 +42,9 @@
                   {% assign about_title = page.title %}
                 {% endif %}
               {% endfor %}
-
+              <!-- Logo --> 
+              <li class="nav-item"><a class="brand-image" href="{{ HOME_PATH }}"><img class="brand-image" src="/assets/img/image1-small-8995.png"/></a></li>
+               
               <!-- About -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
@@ -51,9 +53,7 @@
                   {%- endif -%}
                 </a>
               </li>
-              <!-- Logo --> 
-            <li class="nav-item"><a class="brand-image" href="{{ HOME_PATH }}"><img class="brand-image" src="/assets/img/image1-small-8995.png"/></a></li>
-                
+               
               {% if site.blog_nav_title %}
               <!-- Blog -->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
