@@ -10,8 +10,11 @@ related_publications:
 
 Apart from the physical models that are used to perform simulations, we also develop data-driven methods to gain information about self-assembly and amyloid formation of peptides in solution. Oftentimes, computer simulations, such as molecular dynamics, can produce vast amounts of data that is difficult to analyze. Especially with processes that are rare events (non-equilibrium) or that happen on short time scales, clustering and data dimensionality reduction methods have recently been proved to be useful for understanding the dynamics of a supramolecular polymers. Furthermore, while machine learning and data-driven methods continue to gain interest in the field of computational chemistry, it is an ongoing challenge to make connections between the outputs of “black box” machine learning models and physical and chemical processes. This project is therefore aimed at developing machine learning models that would ultimately be tied back to physical quantities we can measure, evaluate and apply to different problems.
 
-<div class="row mt-3">
-    {% include video.html path="https://github.com/aysenuriscen/aysenuriscen.github.io/assets/44734742/3bd4a635-21dd-4e8c-bc19-cf975c629517" class="img-fluid rounded z-depth-1" %}
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.html path="https://github.com/aysenuriscen/aysenuriscen.github.io/assets/44734742/3bd4a635-21dd-4e8c-bc19-cf975c629517" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 
