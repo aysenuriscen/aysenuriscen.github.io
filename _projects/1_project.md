@@ -12,7 +12,7 @@ Recent advances in molecular medicine have greatly simplified the transfer of ge
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Research Overview002.png" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Research Overview002.png" title="" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
