@@ -1,80 +1,39 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Peptide Amphiphiles (PAs)
+description: design of stimuli-responsive biomaterials based on PAs
+img: assets/img/Movie_S1-8997.mov
+importance: 5
+category: past projects
+related_publications: Iscen_2017,Iscen2019JPhysChemB,Li2020JACS,Li2020NatMat
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Development of soft materials that mimic the ability of living organisms to sense the changes in their environment through various signals and respond in a way that optimizes processes is one of the challenges in emerging fields of biomedicine, soft robotics and energy materials. For a long time, we have relied on polymeric materials in countless industries for their high kinetic and thermodynamic stability, but recent efforts to create a more sustainable and environment-friendly future have cast a negative shadow on polymeric materials for their same property. As a result, the field of supramolecular polymers started to gain increasing attention. Supramolecular polymers, where the building blocks of the material assemble via non-covalent interactions to form a dynamic material, can have mechanical properties of plastics but also provide ease of processability, recycling and self-healing due to their reversible nature.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Interestingly, the concept of supramolecular polymers is far from new; in living systems, proteins in the extracellular matrix (ECM) dynamically form long, ordered supramolecular fibrils and depolymerize for vital cell functions. In the same manner, such specific inter and intramolecular interactions can be utilized to rationally design materials using bottom-up approaches. In this context, biomimetic multifunctional materials can be designed by using building blocks, such as peptide-based motifs and conjugates with organic and inorganic molecules, that predictably self-assemble and interact to generate functions similar to or surpassing those of natural products. For example, peptide amphiphiles are biomolecules made up of hydrophobic alkyl chains and a peptide sequence containing β-sheet forming amino acid residues that self-assemble in solution to form supramolecular nanofibers with long-range order. Because of their increased stability due to strong intermolecular hydrogen bonding interactions, these nanofibers provide excellent scaffolds for development of stimuli-responsive materials. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Research Overview1.png" title="" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/fig1.jpeg" title="" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+In different projects, we investigated their self-assembly in solution, secondary structure formation and interaction with water and ions in solution.
+
+{% include video.html path="assets/img/media1.mp4" class="img-fluid rounded z-depth-1" %}
+
+These dynamic nanofibers were combined with light-responsive spiropyran hydrogels to develop a supramolecular-covalent hybrid material that can transform its shape, rotate and crawl in response to changes in light conditions. Our model and simulations showed that the supramolecular structure act as a channel to drain water out of the hydrogel during light-activated actuation. Such draining in conjunction with the noncovalent distortions suggested by the simulations could enhance the speed and/or reversibility of photo-actuation. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/image65-9964.png" title="" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+
+
