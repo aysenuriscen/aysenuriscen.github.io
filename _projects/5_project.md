@@ -33,6 +33,3 @@ These dynamic nanofibers were combined with light-responsive spiropyran hydrogel
     </div>
 </div>
 
-{% include video.html path="https://github.com/aysenuriscen/aysenuriscen.github.io/assets/44734742/e6b25fbe-82b4-4e96-8cab-f357324aa66d" class="img-fluid rounded z-depth-1" %}
-
-
