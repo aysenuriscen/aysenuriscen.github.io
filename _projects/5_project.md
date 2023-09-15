@@ -2,7 +2,7 @@
 layout: page
 title: Peptide Amphiphiles (PAs)
 description: design of stimuli-responsive biomaterials based on PAs
-img: assets/img/Movie_S1-8997.mov
+img: assets/img/image4-9007.png
 importance: 5
 category: past projects
 related_publications: Iscen_2017,Iscen2019JPhysChemB,Li2020JACS,Li2020NatMat
@@ -23,7 +23,7 @@ Interestingly, the concept of supramolecular polymers is far from new; in living
 
 In different projects, we investigated their self-assembly in solution, secondary structure formation and interaction with water and ions in solution.
 
-{% include video.html path="assets/img/media1.mp4" class="img-fluid rounded z-depth-1" %}
+{% include video.html path="https://github.com/aysenuriscen/aysenuriscen.github.io/assets/44734742/19699d8a-91a0-4dda-a1bc-87d413a480e3" class="img-fluid rounded z-depth-1" %}
 
 These dynamic nanofibers were combined with light-responsive spiropyran hydrogels to develop a supramolecular-covalent hybrid material that can transform its shape, rotate and crawl in response to changes in light conditions. Our model and simulations showed that the supramolecular structure act as a channel to drain water out of the hydrogel during light-activated actuation. Such draining in conjunction with the noncovalent distortions suggested by the simulations could enhance the speed and/or reversibility of photo-actuation. 
 
@@ -33,7 +33,6 @@ These dynamic nanofibers were combined with light-responsive spiropyran hydrogel
     </div>
 </div>
 
-
-
+{% include video.html path="https://github.com/aysenuriscen/aysenuriscen.github.io/assets/44734742/e6b25fbe-82b4-4e96-8cab-f357324aa66d" class="img-fluid rounded z-depth-1" %}
 
 
