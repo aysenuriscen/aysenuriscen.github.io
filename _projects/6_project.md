@@ -1,80 +1,43 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Stimuli-responsive materials
+description: multifunctional materials with properties that are turned on/off with external stimuli
+img: assets/img/image4-9007.png
+importance: 6
+category: past projects
+related_publications: Li2020JACS,Li2020NatMat,Samanta2019JACS,Hong2018JPhysChemLet
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+A new way of engineering materials is to introduce components into materials that encode properties that are enabled in response to external factors or changing environmental conditions. This idea goes beyond the conventional thinking that materials have static properties that are realized once the material is manufactured. In contrast, “smart” materials design is aimed at finding ways to incorporate a built-in responsiveness that can be triggered with a broad range of stimulus, such as changes in pressure, temperature, light, pH, etc. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Nanofibers synthesized from self-assembling peptide amphiphiles (PAs) were combined with light-responsive spiropyran hydrogels to develop a supramolecular-covalent hybrid material that can transform its shape, rotate and crawl in response to changes in light conditions. Our model and simulations showed that the supramolecular structure act as a channel to drain water out of the hydrogel during light-activated actuation. Such draining in conjunction with the noncovalent distortions suggested by the simulations could enhance the speed and/or reversibility of photo-actuation. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/image65-9964.png" title="" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+Furthermore, we also developed DNA-mediated colloidal superlattices that respond to ionic strength as an external stimulus to create highly tunable superlattice properties. The strength of interaction between ions and DNA is varied by addition of different salts to create reversible contractions of the “DNA bond” that links gold nanoparticles in the superlattice, allowing for dynamical control over the optical, magnetic and mechanical properties for these colloidal crystals. Our simulations gave us insight on the mechaniscm of reversible actuation and how different multivalent cations can interact with DNA.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/fig2-9031.jpeg" title="" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+In a different project, we designed ultra-small polymer-grafted nanobins (usPGNs) for drug delivery applications that respond to change in pH with the use of the poly(acrylic acid) polymers grafted onto the liposome membrane. The grafted polymer design not only allows for the pH response but also enhances the stability of the vesicles with small hydrodynamic diameters (D < 50 nm), which is preferable for drug delivery to cells. An increase in pH as a result of crossing cell membranes triggers the polymer to collapse onto the vesicle and release its cargo through the holes that form in the membrane.
+
+<img align="right" src="assets/img/KocChemTalk.001.png">
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+
+
+
+
+
+
+
+
