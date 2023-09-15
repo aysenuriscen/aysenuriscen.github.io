@@ -1,80 +1,34 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Degradation in acrylic paints
+description: multi-scale materials modeling to predict degradation of art-related materials
+img: assets/img/logo-apache.jpeg
+importance: 4
+category: past projects
+related_publications: Iscen2021JPhysChemB, Iscen2023Macromol
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Acrylic paints have been widely used by artists since 1900s because of their many desirable properties over traditional oils, such as fast drying times, solubility in water and applicability to different surfaces. Although acrylic emulsion paints have long succeeded in market sales compared to other types of artists’ paints, what researchers know about acrylic paints relative to the current knowledge of oil paints in the field of conservation is limited. Therefore, there is a serious need of research to guide decisions made by conservators and scientists interested in developing better materials for preventive conservation of Cultural Heritage. Consequently, a fundamental comprehension of structure of acrylic paints and interactions of their components is urgently needed. In this context, multiscale models are important in answering questions about degradation of synthetic polymers widely used in contemporary art.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The <a href="https://www.apacheproject.eu/">APACHE</a> (Active & intelligent PAckaging materials and display cases as a tool for preventive conservation of Cultural Heritage) project was funded by European Union’s Horizon 2020 research and innovation programme (2019-2022) in order to develop a range of materials based on multi-scale modelling and a new generation of active and intelligent enclosures to support the long term preservation of Cultural Heritage. In this context, we developed a multi-scale model to predict degradation in art-related materials. Our multi-scale model consisted of:
+1. physics-based (atomistic and coarse-grained) models for investigating structure-property relationships of acrylic polymers and their interaction with VOCs,
+2. continuum model for absorbents and VOC emission/diffusion in the room where artworks are stored and
+3. machine-learning model for predicting conditions of the room and enclosures.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Apache_WP2_FinalReview.001.png" title="" class="img-fluid rounded z-depth-1" % zoomable=true}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+
+Although acrylics are favored for their durability among other artists’ paints, they can degrade over time by either chemical degradation due to light exposure or physical degradation due to interaction with volatile organic compounds (VOCs), water, or other impurities that cause structural changes in the acrylic material. Many experimental studies in the past have focused on characterization, degradation and conservation of acrylic paints in the context of conservation of cultural heritage, but not many attempts have been made in understanding the physical processes associated with structural changes that lead to degradation in acrylics. While chemical degradation commonly occurs in polymers, there might be many additional other means of degradation, such as due to disruption of polymer morphology. Our physics-based atomistic models focused on both structural changes in acrylic polymers and degradation mechanism as summarized in the figure below.
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Research Overview.2.png" title="" class="img-fluid rounded z-depth-1" % zoomable=true}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
