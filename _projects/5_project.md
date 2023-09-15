@@ -25,11 +25,4 @@ In different projects, we investigated their self-assembly in solution, secondar
 
 {% include video.html path="https://github.com/aysenuriscen/aysenuriscen.github.io/assets/44734742/19699d8a-91a0-4dda-a1bc-87d413a480e3" class="img-fluid rounded z-depth-1" %}
 
-These dynamic nanofibers were combined with light-responsive spiropyran hydrogels to develop a supramolecular-covalent hybrid material that can transform its shape, rotate and crawl in response to changes in light conditions. Our model and simulations showed that the supramolecular structure act as a channel to drain water out of the hydrogel during light-activated actuation. Such draining in conjunction with the noncovalent distortions suggested by the simulations could enhance the speed and/or reversibility of photo-actuation. 
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/image65-9964.png" title="" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
 
