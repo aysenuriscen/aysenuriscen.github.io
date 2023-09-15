@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Peptide Amphiphiles (PAs)
+title: Peptide Amphiphiles (PA)
 description: design of stimuli-responsive biomaterials based on PAs
 img: assets/img/image4-9007.png
 importance: 5
