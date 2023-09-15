@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Peptide nanofibrils (PNFs) in retroviral gene transfer
+title: Peptide nanofibrils (PNF) in retroviral gene transfer
 description: Self-assembly mechanisms of PNFs
 img: assets/img/pnf1.jpg
 importance: 1
