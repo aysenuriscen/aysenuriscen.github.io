@@ -2,7 +2,7 @@
 layout: page
 title: Degradation in acrylic paints
 description: multi-scale materials modeling to predict degradation of art-related materials
-img: assets/img/logo-apache.jpeg
+img: assets/img/toc.png
 importance: 4
 category: past projects
 related_publications: Iscen2021JPhysChemB, Iscen2023Macromol
