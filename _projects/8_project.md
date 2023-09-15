@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Vibrational probe of aqueous electrolytes
