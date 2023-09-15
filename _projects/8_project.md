@@ -17,6 +17,6 @@ Here, we illustrated the effects of some simple salts in bulk aqueous solution o
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/TOC (2).pdf" title="" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/TOC (2).png" title="" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
