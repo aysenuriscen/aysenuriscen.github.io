@@ -2,7 +2,7 @@
 layout: page
 title: Stimuli-responsive materials
 description: multifunctional materials with properties that are turned on/off with external stimuli
-img: assets/img/image4-9007.png
+img: assets/img/image128-19396.png
 importance: 6
 category: past projects
 related_publications: Li2020JACS,Li2020NatMat,Samanta2019JACS,Hong2018JPhysChemLet
