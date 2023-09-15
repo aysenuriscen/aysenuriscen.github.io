@@ -17,7 +17,7 @@ The <a href="https://www.apacheproject.eu/">APACHE</a> (Active & intelligent PAc
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Apache_WP2_FinalReview.001.png" title="" class="img-fluid rounded z-depth-1" % zoomable=true}
+        {% include figure.html path="assets/img/Apache_WP2_FinalReview.001.png" title="" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -27,7 +27,7 @@ Although acrylics are favored for their durability among other artists’ paints
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Research Overview.2.png" title="" class="img-fluid rounded z-depth-1" % zoomable=true}
+        {% include figure.html path="assets/img/Research Overview.2.png" title="" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
