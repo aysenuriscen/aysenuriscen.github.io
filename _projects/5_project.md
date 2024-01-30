@@ -5,7 +5,7 @@ description: design of stimuli-responsive biomaterials based on PAs
 img: assets/img/image4-9007.png
 importance: 5
 category: past projects
-related_publications: Iscen_2017,Iscen2019JPhysChemB,Li2020JACS,Li2020NatMat
+related_publications: Iscen_2017,Iscen2019JPhysChemB,Li2020JACS,Li2020NatMat,Kaygisiz23_pa
 ---
 
 Development of soft materials that mimic the ability of living organisms to sense the changes in their environment through various signals and respond in a way that optimizes processes is one of the challenges in emerging fields of biomedicine, soft robotics and energy materials. For a long time, we have relied on polymeric materials in countless industries for their high kinetic and thermodynamic stability, but recent efforts to create a more sustainable and environment-friendly future have cast a negative shadow on polymeric materials for their same property. As a result, the field of supramolecular polymers started to gain increasing attention. Supramolecular polymers, where the building blocks of the material assemble via non-covalent interactions to form a dynamic material, can have mechanical properties of plastics but also provide ease of processability, recycling and self-healing due to their reversible nature.
