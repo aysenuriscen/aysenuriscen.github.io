@@ -22,8 +22,9 @@ social: true  # includes social icons at the bottom of the page
 
 Chemical engineer highly experienced in computational chemistry, molecular modeling and simulation methods, including ab initio quantum chemistry methods, atomistic and coarse-grained molecular dynamics simulations. Research interests include multi-scale modeling of bioinspired materials, self-assembly, supramolecular chemistry and polymer physics.
 
-{:refdef: style="text-align: center;"}
-![image1-small-8995](https://github.com/aysenuriscen/aysenuriscen.github.io/assets/44734742/9eef0695-ea57-4573-804e-f7064bb6c1cd)
-{: refdef}
+
+<video src="[https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4](https://github.com/aysenuriscen/aysenuriscen.github.io/assets/44734742/3853ad4d-fcb0-47d0-acad-8ace75dd9e6f)" controls="controls" style="max-width: 730px;">
+</video>
+
 
 
