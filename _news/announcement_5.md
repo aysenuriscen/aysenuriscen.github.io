@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check out our new paper: "Peptide Amphiphiles as Biodegradable Adjuvants for Efficient Retroviral Gene Delivery"
+title: Check out our new paper "Peptide Amphiphiles as Biodegradable Adjuvants for Efficient Retroviral Gene Delivery"
 date: 2023-11-10 16:11:00-0400
 inline: false
 related_posts: false
