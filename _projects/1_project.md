@@ -5,7 +5,7 @@ description: Self-assembly mechanisms of PNFs
 img: assets/img/pnf1.jpg
 importance: 1
 category: current projects
-related_publications: Iscen2024,Sieste2021,Yolamanova2013,DataMining2023
+related_publications: iscen2024,Sieste2021,Yolamanova2013,DataMining2023
 ---
 
 Recent advances in molecular medicine have greatly simplified the transfer of genetic material into cells for a myriad of applications, such as the development of mRNA vaccines and gene therapy. Gene therapy approaches can be used to treat diseases that are both inherited, such as those caused by gene defects, and acquired diseases, such as cancer. Among others, retroviral gene transfer is the most commonly used method of choice to introduce genetic material into cellular genome. However, the efficiency of retroviral gene transfer is still limited. For most applications, low concentrations of viral vectors must be used to avoid toxicity in the living cells and consequently the efficiency of the viral vectors in attaching to the cells is lowered. In order to overcome these challenges in retroviral gene transfer, researchers strive to develop new synthetic materials, composed of polymers, peptides and lipids, that will enhance gene transfer and are nontoxic, biodegradable and sustainable. One of these biomaterials are self-assembling peptide nanofibrils (PNFs), which are supramolecular amyloid-like nanofibers popular due to their high stability, resistance to degradation, biocompatibility and dynamic properties that can be tuned with external stimuli.
