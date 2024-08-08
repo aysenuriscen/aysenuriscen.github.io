@@ -12,7 +12,7 @@ Applicants with undergraduate or graduate degrees in chemical engineering, chemi
 
 For Master's and PhD applicants, a background in biochemistry, biophysics, having experience with running molecular dynamics simulations or knowledge of basic programming (e.g. Python) would be beneficial but is not required. Postdoctoral applicants are expected to have prior experince with common MD software, such as Gromacs, NAMD and/or Amber, and atomistic simulations. Additionally, familiarity with machine learning methods is preferred.
 
-The scholarship amounts for Postdoctoral researchers is 27.000 TL/month, PhD students 20.000 TL/month and Master's students 13.500 TL/month. In addition, Sabancı University will provide tuition exemption, private health insurance, dormitory or transportation support. Students enrolled in other universities in Türkiye can also apply. Working remotely from other cities outside of İstanbul is possible.
+The scholarship amounts for Postdoctoral researchers is 32.000 TL/month, PhD students 24.000 TL/month and Master's students 16.500 TL/month. In addition, Sabancı University will provide tuition exemption, private health insurance, dormitory or transportation support. Students enrolled in other universities in Türkiye can also apply. Working remotely from other cities outside of İstanbul is possible.
 
 For questions about the research project or available positions, please contact <a href="mailto:aysenur.iscen@sabanciuniv.edu">Dr. Ayşenur İşcen Akatay</a>.
 
