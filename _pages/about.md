@@ -2,17 +2,17 @@
 layout: about
 title: home
 permalink: /
-subtitle: TÜBİTAK 2232 Fellow - International Fellowship for Outstanding Researchers @ <a href='https://www.sabanciuniv.edu/'>Sabancı University</a>. 
+subtitle: Asisstant Professor at Chemistry Department, @ <a href='https://chem.bogazici.edu.tr/'> Boğaziçi University</a>. 
 
 profile:
   align: right
   image: IMG_2947.JPG
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Faculty of Engineering and Natural Sciences</p>
-    <p>Room 1001</p>
-    <p>Sabancı University</p>
-    <p>Orta Mahalle, 34956 Tuzla, İstanbul, Türkiye</p>
+    <p>Department of Chemistry</p>
+    <p>Room KB526</p>
+    <p>Boğaziçi University</p>
+    <p>34342 Bebek/İstanbul, Türkiye</p>
 
 news: true  # includes a list of news items
 latest_posts: false # includes a list of the newest posts
