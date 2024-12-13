@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Asisstant Professor at Chemistry Department, @<a href='https://chem.bogazici.edu.tr/'> Boğaziçi University</a>. 
+subtitle: Asisstant Professor at Chemistry Department, @<a href='https://chem.bogazici.edu.tr/'>Boğaziçi University</a>. 
 
 profile:
   align: right
