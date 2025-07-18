@@ -27,6 +27,10 @@ Furthermore, we also developed DNA-mediated colloidal superlattices that respond
 </div>
 
 
+<video src="https://github.com/user-attachments/assets/edcccdbc-07a9-4617-a5c9-6c98cace522d" controls="controls" style="max-width: 350px;">
+</video>
+
+
 In a different project, we designed ultra-small polymer-grafted nanobins (usPGNs) for drug delivery applications that respond to change in pH with the use of the poly(acrylic acid) polymers grafted onto the liposome membrane. The grafted polymer design not only allows for the pH response but also enhances the stability of the vesicles with small hydrodynamic diameters (D < 50 nm), which is preferable for drug delivery to cells. An increase in pH as a result of crossing cell membranes triggers the polymer to collapse onto the vesicle and release its cargo through the holes that form in the membrane.
 
 <div class="row">
